@@ -1,0 +1,145 @@
+.one{
+    font-size: 30px;
+    color: yellow;
+}
+.new{
+    color: yellow;
+    
+}
+
+.ambi{
+    color: orange;
+}
+
+
+.two{
+    background-color:rgb(132, 102, 102);
+    color: aliceblue;
+    border: 1px solid black;
+    border-radius: 999px;
+    width: 140px;
+    height: 40px;
+}
+
+.four{
+    border: 1px solid black;
+    border-radius: 999px;
+    width: 120px;
+    height: 45px;
+    background-color: rgb(132, 102, 102);
+    color: aliceblue;
+}
+
+.three{
+    border: 1px solid black;
+    border-radius: 999px;
+    width: 120px;
+    height: 45px;
+    background-color: white;
+    color: black;
+}
+
+.six{
+    font-size: 50px;
+    color: yellow;
+}
+
+.rew{
+    font-size: 50px;
+    color: yellow;
+}
+
+.ser{
+    font-size: 50px;
+    color:orange;
+
+}
+
+.STEATEGY{
+    color: aliceblue;
+}
+
+.hh{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+.turn{
+    color: white;
+}
+
+.start{
+    color: aliceblue;
+}
+
+.ai{
+    color: yellow;
+}
+
+.name{
+    color: orange;
+}
+
+.how{
+    color: yellow;
+}
+
+.enc{
+    color: white;
+}
+.sub{
+    color: black;
+    background-color: orange;
+}
+
+.pp{
+    color: aliceblue;
+}
+
+
+.color{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.tab{
+    color: aliceblue;
+    
+}
+
+.get{
+     border: 1px solid black;
+    border-radius: 999px;
+    width: 120px;
+    height: 45px;
+    background-color: rgb(132, 102, 102);
+    color: aliceblue;
+
+}
+
+.meet{
+     border: 1px solid black;
+    border-radius: 999px;
+    width: 120px;
+    height: 45px;
+    background-color: rgb(132, 102, 102);
+    color: aliceblue;
+}
+
+.white{
+    color: aliceblue;
+}
+
+.us{
+     background-color: yellow;
+      border: 1px solid black;
+    border-radius: 999px;
+    width: 100px;
+    height: 10px;
+    text-align: center;
+}
+
